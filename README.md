@@ -32,6 +32,7 @@ User Story: Client
 Acceptance Criteria:
 
 1. Inventory:
+   
    -They should be able to input details including product name, product id, price, stocks, and category
    
    -The system should save this information accurately add, delete, and update the inventory levels accordingly.
@@ -44,7 +45,7 @@ Acceptance Criteria:
 
 3.Generate Reports:
 
-- The system should generate a detailed report showing inventory inflows, outflows.
+-The system should generate a detailed report showing inventory inflows, outflows.
   
 4.View Staff Information:
 
