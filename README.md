@@ -39,6 +39,7 @@ Acceptance Criteria:
 2.Dashboard:
 
 -They should see an overview of the inventory status, recent inflows and outflows.
+
 -The system should save this information accurately add, delete, and update the dashboard accordingly.
 
 3.Generate Reports:
