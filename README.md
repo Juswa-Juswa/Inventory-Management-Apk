@@ -34,23 +34,17 @@ Acceptance Criteria:
 1. Inventory:
    -They should be able to input details including product name, product id, price, stocks, and category
    -The system should save this information accurately add, delete, and update the inventory levels accordingly.
-
+   
 2.Dashboard:
 -They should see an overview of the inventory status, recent inflows and outflows.
 -The system should save this information accurately add, delete, and update the dashboard accordingly.
 
 3.Generate Reports:
 - The system should generate a detailed report showing inventory inflows, outflows.
-
+  
 4.View Staff Information:
  -should be able to view details about staff members, including their roles.
  
-
-
-
-
-
-
 
 
 
