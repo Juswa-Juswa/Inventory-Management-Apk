@@ -27,8 +27,8 @@ User Story: Staff
 
 User Story: Client
 1.  Report Availability:
-   - So that I can see if specific products are available in the inventory.
-   - I can access reports that show the current stock status of the products I am interested in.
+      - So that I can see if specific products are available in the inventory.
+      - I can access reports that show the current stock status of the products I am interested in.
      
 2. View Staff Information:
    - So that I can know who is responsible for managing the inventory.
