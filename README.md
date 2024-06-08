@@ -51,3 +51,8 @@ Acceptance Criteria:
 
 4. View Staff Information:
    - Should be able to view details about staff members, including their roles.
+
+_____________________________________________________________________________________
+
+FIGMA DESIGN:
+https://www.figma.com/design/1gNtgSGCieBAQfJ07iw4gh/Figma-Designs?node-id=0-1&t=8PxBHPWPpqJM9es1-1
