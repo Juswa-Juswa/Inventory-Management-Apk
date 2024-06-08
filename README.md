@@ -1,7 +1,7 @@
 # Inventory-Management-Apk
 Partners:
 Bernardino & Atienza
-
+_____________________________________________________________________________________
 User Story: Staff
 1. Record Inventory Items:
    - So that the inventory gets updated with the latest imports from Japan.
@@ -31,7 +31,8 @@ User Story: Client
 2. View Staff Information:
    - So that I can know who is responsible for managing the inventory.
    - I can see details about the staff members, including their roles and contact information if needed.
-  
+
+_____________________________________________________________________________________
 Acceptance Criteria:
 
 1. Inventory:
