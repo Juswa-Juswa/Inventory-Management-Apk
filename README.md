@@ -3,15 +3,11 @@ Partners:
 Bernardino & Atienza
 
 User Story: Staff
-
 1. Record Inventory Items:
    - So that the inventory gets updated with the latest imports from Japan.
    - I will be able to add new products to the inventory with all relevant data like product name, price, and stocks
 
  User Story: Admin
-
-As an Admin, I want to:
-
 1. Delete Products:
    - So that I can maintain an accurate and up-to-date inventory.
    - I can remove outdated or incorrect product entries from the system.
@@ -25,9 +21,6 @@ As an Admin, I want to:
    - I can create detailed reports on product movements and stock levels for better decision-making.
 
 User Story: Client
-
-As a Client, I want to:
-
 1.  Report Availability:
    - So that I can see if specific products are available in the inventory.
    - I can access reports that show the current stock status of the products I am interested in.
