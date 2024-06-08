@@ -4,8 +4,6 @@ Bernardino & Atienza
 _____________________________________________________________________________________
 USER STORIES:
 
-------------------
-
 User Story: Staff
 1. Record Inventory Items:
    - So that the inventory gets updated with the latest imports from Japan.
@@ -13,8 +11,6 @@ User Story: Staff
    
 2. View Dashboard:
    - I can monitor stock levels, recent inflows, and outflows.
-
-------------------
 
  User Story: Admin
 1. Delete Products:
@@ -28,8 +24,6 @@ User Story: Staff
 3. Generate Reports:
    - So that I can analyze inventory inflows and outflows.
    - I can create detailed reports on product movements and stock levels for better decision-making.
-
-------------------
 
 User Story: Client
 1.  Report Availability:
